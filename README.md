@@ -9,5 +9,15 @@
 
 Laravel Admin Panelli Firma Script Projesi
 
+Projeyi indirdikten sonra kullanmak için yapılması gerekenler:
+
+*  portfolio.sql dosyasını veritabanınıza içeri aktar diyerek veritabanını oluşturabilirsiniz.
+* .env dosyasında db_connection ayarlarını ve username ve password doldurunuz.
+* .env dosyasında DB_DATABASE=portfolio ayarlayabilirsiniz.
+*  Veya migration ve seed çalıştırarak tabloları oluşturup ve doldurabilirsiniz.
+
+
+Hayat Paylaşarak Ve Ögrenerek Güzel...
+
 
 
